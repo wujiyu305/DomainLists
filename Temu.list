@@ -1,0 +1,19 @@
+# NAME: Temu
+# AUTHOR: wujiyu305
+# UPDATED: 2025-02-26
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 2
+# IP-CIDR: 6
+# USER-AGENT: 2
+# TOTAL: 11
+DOMAIN-SUFFIX,temu.com
+DOMAIN-SUFFIX,kwcdn.com
+DOMAIN-KEYWORD,temu
+USER-AGENT,temu*
+USER-AGENT,Temu*
+IP-CIDR,2000::/16,no-resolve
+IP-CIDR,2603:1030::/32,no-resolve
+IP-CIDR,20.15.0.0/24,no-resolve
+IP-CIDR,20.33.88.0/24,no-resolve
+IP-CIDR,34.85.218.0/24,no-resolve
+IP-CIDR,35.221.53.0/24,no-resolve
