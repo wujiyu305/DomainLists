@@ -1,0 +1,14 @@
+# NAME: Coursera
+# AUTHOR: wujiyu305
+# UPDATED: 2025-04-28
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 3
+# IP-CIDR: 0
+# USER-AGENT: 2
+# TOTAL: 13
+DOMAIN-SUFFIX,coursera.org
+DOMAIN-SUFFIX,d3c33hcgiwev3.cloudfront.net
+DOMAIN-SUFFIX,d3njjcbhbojbot.cloudfront.net
+DOMAIN-KEYWORD,coursera
+USER-AGENT,coursera*
+USER-AGENT,Coursera*
