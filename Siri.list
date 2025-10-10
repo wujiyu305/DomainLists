@@ -1,0 +1,14 @@
+# NAME: Siri and Apple Intelligence
+# AUTHOR: wujiyu305
+# UPDATED: 2025-10-10
+# DOMAIN-KEYWORD: 0
+# DOMAIN-SUFFIX: 6
+# IP-CIDR: 0
+# USER-AGENT: 0
+# TOTAL: 6
+DOMAIN-SUFFIX,guzzoni.apple.com
+DOMAIN-SUFFIX,smoot.apple.com
+DOMAIN-SUFFIX,apple-relay.cloudflare.com
+DOMAIN-SUFFIX,apple-relay.fastly-edge.com
+DOMAIN-SUFFIX,cp4.cloudflare.com
+DOMAIN-SUFFIX,apple-relay.apple.com
